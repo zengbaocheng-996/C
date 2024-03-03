@@ -1,0 +1,3 @@
+C:/Users/ASUS/Desktop/C (1)/16/16. 4/1-BubbleSort/cmake-build-debug/CMakeFiles/1_BubbleSort.dir
+C:/Users/ASUS/Desktop/C (1)/16/16. 4/1-BubbleSort/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ASUS/Desktop/C (1)/16/16. 4/1-BubbleSort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
