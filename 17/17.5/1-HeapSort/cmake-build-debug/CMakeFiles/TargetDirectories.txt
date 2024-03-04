@@ -1,0 +1,3 @@
+C:/Users/Administrator/Desktop/C/17/17.5/1-HeapSort/cmake-build-debug/CMakeFiles/1_HeapSort.dir
+C:/Users/Administrator/Desktop/C/17/17.5/1-HeapSort/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Administrator/Desktop/C/17/17.5/1-HeapSort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
