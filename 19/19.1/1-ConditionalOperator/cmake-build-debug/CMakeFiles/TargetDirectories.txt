@@ -1,0 +1,3 @@
+C:/Users/Administrator/Desktop/C/19/19.1/1-ConditionalOperator/cmake-build-debug/CMakeFiles/1_ConditionalOperator.dir
+C:/Users/Administrator/Desktop/C/19/19.1/1-ConditionalOperator/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Administrator/Desktop/C/19/19.1/1-ConditionalOperator/cmake-build-debug/CMakeFiles/rebuild_cache.dir

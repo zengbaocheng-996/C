@@ -1,0 +1,3 @@
+C:/Users/Administrator/Desktop/C/19/19.2/2-increment-pointer/cmake-build-debug/CMakeFiles/2_increment_pointer.dir
+C:/Users/Administrator/Desktop/C/19/19.2/2-increment-pointer/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Administrator/Desktop/C/19/19.2/2-increment-pointer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
