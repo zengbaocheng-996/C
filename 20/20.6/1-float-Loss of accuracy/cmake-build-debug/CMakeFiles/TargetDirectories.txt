@@ -1,0 +1,3 @@
+C:/Users/Administrator/Desktop/C/20/20.6/1-float-Loss of accuracy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Administrator/Desktop/C/20/20.6/1-float-Loss of accuracy/cmake-build-debug/CMakeFiles/1_float_Loss_of_accuracy.dir
+C:/Users/Administrator/Desktop/C/20/20.6/1-float-Loss of accuracy/cmake-build-debug/CMakeFiles/edit_cache.dir
