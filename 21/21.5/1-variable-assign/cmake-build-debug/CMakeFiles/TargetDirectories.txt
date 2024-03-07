@@ -1,0 +1,3 @@
+C:/Users/Administrator/Desktop/C/21/21.5/1-variable-assign/cmake-build-debug/CMakeFiles/1_variable_assign.dir
+C:/Users/Administrator/Desktop/C/21/21.5/1-variable-assign/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Administrator/Desktop/C/21/21.5/1-variable-assign/cmake-build-debug/CMakeFiles/rebuild_cache.dir
